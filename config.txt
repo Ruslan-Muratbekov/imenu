@@ -1,0 +1,8 @@
+Postgresql
+    database: imenu
+    user: postgres
+    password: root
+
+User in django
+    phone_number: 0220332323
+    password: root
